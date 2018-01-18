@@ -1,0 +1,51 @@
+
+#pam {
+    background: #202328;
+    color: #ffffff;
+}
+
+#pam:focus {
+   color: #d5d8e0;
+    background-color: #394557;
+    background: white;
+}
+
+#ram {
+    background: #272b33;
+    color: #d5d8e0;
+}
+
+#lac {
+    background-color: #272b33;
+    color: #d5d8e0;
+}
+
+treeview.view {
+    color: #d5d8e0; background: #272b33; font-weight: bold; text-shadow: none; box-shadow: none; }
+
+treeview.view header button{
+    color: #d5d8e0;
+    background: #2b313a;
+    font-weight: bold;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+treeview.view:focus {
+    color: #d5d8e0;
+    background: #394557;
+}
+
+#lal {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: #272b33;
+    color: #d5d8e0;
+}
+
+#lals {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background: #202328;
+    color: #d5d8e0;
+}
